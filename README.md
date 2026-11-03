@@ -1,1 +1,1 @@
-hello there
+Application version: 3.0
